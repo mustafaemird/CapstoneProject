@@ -1,0 +1,125 @@
+.introduction{
+font-family: "Sour Gummy", sans-serif;
+}
+.explain{
+font-style: italic;
+color: #22177A;
+}
+.bottom-cloud{
+position: absolute;
+left: 250px;
+bottom: 400px;
+}
+.top-cloud{
+position: absolute;
+right: 150px;
+top: 250px;
+}
+.top-container{
+    background-color: #e4f9f5;
+    position: relative;
+    padding-top: 100px;
+}
+.photo{
+height: 150px;
+border-radius: 50%;
+}
+.tanitma{
+  color: #11999e;
+  font-family: "Crimson Text", serif;
+  text-align: center;
+}
+.intro{
+  width: 30%;
+  margin: auto;
+  line-height: 2;
+  display: block;
+}
+
+hr{
+  border: dotted #eaf6f6 6px;
+  border-bottom: none;
+  width: 4%;
+  margin: 100px auto;
+}
+h2{
+  display: flex;
+  text-align: center;
+  justify-content:center;
+  margin: 0;
+  color: #11999e;
+}
+.typing{
+  display: flex;
+  text-align: left;
+  margin-left:20%;
+  margin-top: 6%;
+  object-fit: cover;  
+  align-items: center;
+  
+}
+h3{
+  display: flex;
+  text-align: center;
+  line-height: 2;
+  margin-left: 5%;
+  color: #11999e;
+}
+p{
+  display: flex;
+  text-align: left;
+  justify-content:center;
+  line-height: 2;
+  margin-right: 50%;
+  margin-left: 5%;
+  font-style: italic;
+  margin-bottom: 12%;
+}
+.touch{
+  display: flex;
+  text-align: center;
+  justify-content: center;
+
+}
+.touch-h{
+display: flex;
+text-align: center;
+justify-content: center;
+margin-right:5%;
+font-weight: bold;
+font-size: 1.17em;
+}
+.btn {
+ display: flex;
+ text-align: center;
+ justify-content: center;
+ right: 50%;
+ left: 45%;
+ background-color: #11999e;
+ border: none;
+ background:linear-gradient(top, #11cdd4, #11999e);
+ background:linear-gradient(to bottom, #11cdd4, #11999e);
+ position: relative;
+
+}
+
+.middle-container {
+  margin: 100px 0;
+}
+.copyright {
+  color: #ffffff;
+  font-size: 0.75rem;
+  padding: 20px 0;
+  text-align: center;
+}
+.bottom-container {
+  background-color: #66bfbf;
+  padding: 50px 0 20px;
+  margin-top: 50px;
+}
+li{
+  color: #11999e;
+    font-family: "Montserrat", sans-serif;
+    margin: 10px 20px;
+    text-decoration: none;
+}
